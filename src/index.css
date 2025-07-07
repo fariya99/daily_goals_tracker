@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/* Basic global resets for consistent styling across browsers */
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Any other truly global styles that apply to the entire page can go here */
